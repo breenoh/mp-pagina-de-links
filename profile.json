@@ -1,0 +1,36 @@
+{
+    "name": "Breno ",
+    "lastName": "Oliveira",
+    "avatar": "breno-perfil.jpg",
+  
+    "description": "Co-fundador e professor no Codante. Desenvolvedor web front-end. Conheça meu trabalho 👇🏽",
+  
+    "links": [
+      {
+        "text": "Meu portfólio",
+        "href": "https://icaro.io"
+      },
+      {
+        "text": "Conheça meus projetos",
+        "href": "https://codante.io"
+      },
+      {
+        "text": "Meu último vídeo",
+        "href": "https://www.youtube.com/watch?v=UhyJO3UP2bw&t=1s"
+      }
+    ],
+  
+    "socialLinks": [
+      {
+        "text": "GitHub",
+        "icon": "public/vite.svg",
+        "href": "https://github.com/icaroharry"
+      },
+      {
+        "text": "LinkedIn",
+        "icon": "public/vite.svg",
+        "href": "https://linkedin.com/in/ícaro"
+      }
+    ]
+  }
+  
